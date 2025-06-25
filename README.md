@@ -7,38 +7,46 @@
   Web開発を勉強中です📚 <br/>
   NotionとGitHubを使って日々成長中🌱
 </p>
+-->
 
-
-## 🛠 スキルセット
+## 🛠 Skill Set
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <!--<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />-->
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## 📌 最近の活動
+---
+
+## 📌 Activities
+
 - プログラミングスクール受講中
 - http/css学習中
 - GitHub操作学習中
 
 ---
 
-## 📈 GitHub
-### 📊 統計カード
+## 📈 GitHub Stats
+
+### 📊 Stats Overview
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ainyan4645&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainyan4645&layout=compact&theme=tokyonight" />
 </p>
 
-### 🧩 貢献グラフ
+### 🧩 Contribution Graph
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ainyan4645&theme=tokyonight" />
 
 ---
-## 🛠 作業環境
+
+## 💻 Environment
+
 <p align="left">
   <img src="https://img.shields.io/badge/Device-MacBook%20Air-999999?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-macOS-lightgrey?style=for-the-badge&logo=apple&logoColor=black" />
@@ -46,10 +54,11 @@
   <img src="https://img.shields.io/badge/Browser-Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
+---
+
 <p align="center">
   💬 <strong>Thanks for visiting!</strong><br><br>
-  ⭐️ If you like what you see, feel free to <strong>star</strong> or <strong>follow</strong> me!
-</p>
+  ⭐️ If you like
 
 -->
 
