@@ -11,11 +11,21 @@
 
 ## 🛠 Skill Set
 
+### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <!--<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />-->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🧰 Tools
+<p align="left">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder&logoColor=white" />
+</p>
+
+### 🔧 Platforms
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -25,8 +35,8 @@
 ## 📌 Activities
 
 - プログラミングスクール受講中
-- http/css学習中
-- GitHub操作学習中
+- 🔰 http/css
+- 🔰 GitHub
 
 ---
 
@@ -48,10 +58,19 @@
 ## 💻 Environment
 
 <p align="left">
+ <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Browser-Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Device-MacBook%20Air-999999?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-macOS-lightgrey?style=for-the-badge&logo=apple&logoColor=black" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Browser-Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Device-Surface-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
 ---
@@ -60,7 +79,7 @@
   💬 <strong>Thanks for visiting!</strong><br><br>
   ⭐️ If you like
 
--->
+
 
 <!--
 ↓GitHub プロフィール README ジェネレーター
